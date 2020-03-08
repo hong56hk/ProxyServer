@@ -1,0 +1,5 @@
+{
+    "proxy_client_whitelist": [
+        "127.0.0.1"
+    ]
+}
